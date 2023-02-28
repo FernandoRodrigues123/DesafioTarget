@@ -1,0 +1,22 @@
+[
+    {
+        "cidade": "SAO PAULO",
+        "faturamento": 67836.43
+    },
+    {
+        "cidade": "Rio de Janeiro",
+        "faturamento": 36678.66
+    },
+    {
+        "cidade": "Minas Gerais",
+        "faturamento": 29229.88
+    },
+    {
+        "cidade": "Espirito Santo",
+        "faturamento": 27165.48
+    },
+    {
+        "cidade": "Outros",
+        "faturamento": 19849.53
+    }
+]
